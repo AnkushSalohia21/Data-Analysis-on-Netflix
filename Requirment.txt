@@ -1,0 +1,6 @@
+Here i am have used diffesrnt libraries of python like:-
+Pandas 
+Numpy
+Matplotlib
+Plotly Express
+streamlit
